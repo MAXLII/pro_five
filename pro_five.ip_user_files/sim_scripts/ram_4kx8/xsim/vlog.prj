@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../pro_five.gen/sources_1/ip/ram_4kx8/sim/ram_4kx8.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

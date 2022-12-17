@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sat Dec 17 13:00:21 2022
+# Process ID: 14080
+# Current directory: D:/OneDrive/LWX/Project/MCS51/vivado/pro_five/pro_five.runs/rom_16kx8_synth_1
+# Command line: vivado.exe -log rom_16kx8.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source rom_16kx8.tcl
+# Log file: D:/OneDrive/LWX/Project/MCS51/vivado/pro_five/pro_five.runs/rom_16kx8_synth_1/rom_16kx8.vds
+# Journal file: D:/OneDrive/LWX/Project/MCS51/vivado/pro_five/pro_five.runs/rom_16kx8_synth_1\vivado.jou
+# Running On: ONWAY, OS: Windows, CPU Frequency: 2112 MHz, CPU Physical cores: 12, Host memory: 17032 MB
+#-----------------------------------------------------------
+source rom_16kx8.tcl -notrace
